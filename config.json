@@ -1,0 +1,23 @@
+{
+	"text":{
+		"lenguage":"gl",
+		"people":"text the name of participants",
+		"hashtag":"#TextHastag"
+	},
+	"database":{
+		"url":"",
+		"port":"",
+		"name":"",
+		"user":"",
+		"password":""
+	},
+	"twitter" : {
+		"consumer key" :"",
+		"consumer secret":"",
+		"access token":"",
+		"access token secret":""
+	},
+	"pc user":"dadmin",
+	"hours to kill":[13,16,18],
+	"year to start": 2020
+}

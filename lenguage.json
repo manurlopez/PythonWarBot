@@ -1,0 +1,78 @@
+{
+	"es":{
+		"init_tweet":{
+			"part1" : "Esta cuenta enfrenta a ",
+			"part2" : " con un algoritmo que enfrentará a dos personas en un duelo a muerte a las",
+			"part3" : " y ",
+			"part4" : " horas de cada día. Solo puede quedar uno! Esta es la primera lista: "
+		},
+		"kill_tweet":{
+			"week": {
+				"first_week": "Primera",
+				"second_week": "Segunda",
+				"third_week": "Tercera",
+				"fourth_week": "Cuarta",
+				"fifth_week": "Quinta"
+			},
+          "month" : {
+              "1": "Enero",
+              "2": "Febrero",
+              "3": "Marzo",
+              "4": "Abril",
+              "5": "Mayo",
+              "6": "Junio",
+              "7": "Julio",
+              "8": "Agosto",
+              "9": "Septiembre",
+              "10": "Octubre",
+              "11": "Noviembre",
+              "12": "Diciembre"
+            },
+			"part1" : " semana de ",
+			"part2" : ". Año ",
+			"part3" : " asesinó a ",
+			"part4" : " restantes. "
+		},
+		"final_tweet": {
+			"part1": " es el único superviviente. "
+		}
+	},
+	"gl":{
+		"init_tweet":{
+			"part1" : "Esta conta enfrenta a ",
+			"part2" : " cun algoritmo aleatorio que enfrentará a dúas persoas cun duelo a morte ás",
+			"part3" : " e ",
+			"part4" : " horas de cada día. Só pode quedar un! Esta é a primeira lista: "
+		},
+		"kill_tweet":{
+			"week": {
+				"first_week": "Primeira",
+				"second_week": "Segunda",
+				"third_week": "Terceira",
+				"fourth_week": "Cuarta",
+				"fifth_week": "Quinta"
+			},
+			"part1" : " semana de ",
+            "month" : {
+              "1": "Xaneiro",
+              "2": "Febreiro",
+              "3": "Marzo",
+              "4": "Abril",
+              "5": "Maio",
+              "6": "Xuño",
+              "7": "Xullo",
+              "8": "Agosto",
+              "9": "Setembro",
+              "10": "Outubro",
+              "11": "Novembro",
+              "12": "Decembro"
+            },
+			"part2" : ". Ano ",
+			"part3" : " asesinou a ",
+			"part4" : " restantes. "
+		},
+		"final_tweet": {
+			"part1": " é o único sobrevivente. "
+		}
+	}
+}
